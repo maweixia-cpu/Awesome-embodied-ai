@@ -175,14 +175,14 @@ Special thanks to all contributors who have helped to build and maintain this aw
 
 ## Star History  
 
-[![Star History Chart](https://api.star-history.com/svg?repos=username/awesome-embodied-ai&type=Date)](https://star-history.com/#username/awesome-embodied-ai&Date)  
+[![Star History Chart](https://api.star-history.com/svg?repos=tinyEmbodiedAI/awesome-embodied-ai&type=Date)](https://star-history.com/#tinyEmbodiedAI/awesome-embodied-ai&Date)  
 
 ## Contact  
 
 For questions, suggestions, or issues, please:  
 - Open an issue  
 - Submit a pull request  
-- Contact maintainers: [maintainer@email.com](mailto:maintainer@email.com)  
+- Contact maintainers: [maintainer@email.com](mailto:jqwang16@icloud.com)  
 
 ---  
 
