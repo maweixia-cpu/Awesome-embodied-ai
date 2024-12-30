@@ -1,8 +1,8 @@
 # Awesome Embodied AI  
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)  
-[![GitHub stars](https://img.shields.io/github/stars/username/awesome-embodied-ai.svg)](https://github.com/username/awesome-embodied-ai/stargazers)  
-[![GitHub forks](https://img.shields.io/github/forks/username/awesome-embodied-ai.svg)](https://github.com/username/awesome-embodied-ai/network)  
+[![GitHub stars](https://img.shields.io/github/stars/TinyEmbodiedAI/awesome-embodied-ai.svg)](https://github.com/TinyEmbodiedAI/awesome-embodied-ai/stargazers)  
+[![GitHub forks](https://img.shields.io/github/forks/TinyEmbodiedAI/awesome-embodied-ai.svg)](https://github.com/TinyEmbodiedAI/awesome-embodied-ai/network)  
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)  
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](http://makeapullrequest.com)  
 
