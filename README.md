@@ -87,24 +87,25 @@ Embodied AI represents a paradigm shift in artificial intelligence research, emp
 
 ### Online Courses  
 - [Course Name](link) - Institution, Instructor  
-- [CS539 - Embodied AI](https://web.engr.oregonstate.edu/~leestef/courses/2019/fall/cs539.html) - Oregon state university, College of Engineering, Stefan Lee
+- [Building and Working in Environments for Embodied AI](https://ai-workshops.github.io/building-and-working-in-environments-for-embodied-ai-cvpr-2022/) - Simon Fraser University, Angel Xuan Chang
 
 ### Video Tutorials  
 - [Tutorial Series](link) - Description  
-- [Tutorial Series](link) - Description  
+- [CS539 - Embodied AI](https://web.engr.oregonstate.edu/~leestef/courses/2019/fall/cs539.html) - We will read and analyze the strengths and weaknesses of recent research papers on a variety of topics in embodied AI and identify open research questions. 
 
 ### Books & Reading Materials  
 - [Book Title](link) - Author(s), Year  
-- [Book Title](link) - Author(s), Year  
+- [Multimodal Large Models: The New Paradigm of Artificial General Intelligence](https://hcplab-sysu.github.io/Book-of-MLM/) - Yang Liu, Liang Lin, 2024
+- 
 
 ## Projects  
 
 ### Open Source Projects  
 - [Project Name](link) - Description  
-- [Project Name](link) - Description  
+- [All Robots in One: A New Standard and Unified Dataset for Versatile, General-Purpose Embodied Agents](https://imaei.github.io/project_pages/ario/) - we introduce ARIO (All Robots In One), a new data standard that enhances existing datasets by offering a unified data format, comprehensive sensory modalities, and a combination of real-world and simulated data.
+- [Language Guided Generation of 3D Embodied AI Environments](https://github.com/allenai/Holodeck) - Description
 
 ### Research Projects  
-- [Project Name](link) - Institution, Description  
 - [Project Name](link) - Institution, Description  
 
 ### Demo Applications  
@@ -115,7 +116,7 @@ Embodied AI represents a paradigm shift in artificial intelligence research, emp
 
 ### Major Conferences  
 - [Conference Name](link) - Date, Location  
-- [Conference Name](link) - Date, Location  
+- [The Fifth Annual Embodied AI Workshop]([link](https://embodied-ai.org/)) - Tuesday, June 18 from 8:50am to 5:30pm Pacific, 2024, Seattle Convention Center
 
 ### Workshops & Symposiums  
 - [Workshop Name](link) - Associated Conference, Date  
