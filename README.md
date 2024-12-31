@@ -49,7 +49,7 @@ Embodied AI represents a paradigm shift in artificial intelligence research, emp
 
 ### Survey Papers  
 - [Pfeifer, Rolf, and Fumiya Iida. "Embodied artificial intelligence: Trends and challenges." Lecture notes in computer science (2004): 1-26.](https://people.csail.mit.edu/iida/papers/PfeiferIidaEAIDags.pdf) - Description (2004)  
-- [Title](link) - Description (Year)  
+- [马伟霞](www.baidu.com) - Description (Year)  
 
 ### Foundational Papers  
 - [Title](link) - Description (Year)  
