@@ -43,20 +43,22 @@ Embodied AI represents a paradigm shift in artificial intelligence research, emp
 ### Key Resources for Beginners  
 - [Introduction to Embodied AI](link) - A comprehensive overview  
 - [Embodied AI Tutorial](link) - Step-by-step guide  
-- [Basic Concepts and Principles](link) - Fundamental theories  
+- [Basic Concepts and Principles](link) - Fundamental theories
 
 ## Papers  
 
 ### Survey Papers  
 - [Pfeifer, Rolf, and Fumiya Iida. "Embodied artificial intelligence: Trends and challenges." Lecture notes in computer science (2004): 1-26.](https://people.csail.mit.edu/iida/papers/PfeiferIidaEAIDags.pdf) - Description (2004)  
-- [马伟霞](www.baidu.com) - Description (Year)  
-
+- [Duan, Jiafei, et al. "A survey of embodied ai: From simulators to research tasks." IEEE Transactions on Emerging Topics in Computational Intelligence 6.2 (2022): 230-244.]([www.baidu.com](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9687596)) - Description (2022)  
+- [Xu, Zhiyuan, et al. "A survey on robotics with foundation models: toward embodied ai." arXiv preprint arXiv:2402.02385 (2024).](https://arxiv.org/pdf/2402.02385) - Description (2024)
+- [Liu, Yang, et al. "Aligning cyber space with physical world: A comprehensive survey on embodied ai." arXiv preprint arXiv:2407.06886 (2024).](https://arxiv.org/pdf/2407.06886) - Description (2024) 
+  
 ### Foundational Papers  
-- [Title](link) - Description (Year)  
-- [Title](link) - Description (Year)  
+- [Paolo, Giuseppe, Jonas Gonzalez-Billandon, and Balázs Kégl. "A call for embodied AI." arXiv preprint arXiv:2402.03824 (2024).](https://arxiv.org/pdf/2402.03824) - Description (2024)  
+- [Xu, Zhiyuan, et al. "A survey on robotics with foundation models: toward embodied ai." arXiv preprint arXiv:2402.02385 (2024).](https://arxiv.org/pdf/2402.02385) - Description (2024)  
 
 ### Recent Advances  
-- [Title](link) - Description (Year)  
+- [Duan, Jiafei, et al. "A survey of embodied ai: From simulators to research tasks." IEEE Transactions on Emerging Topics in Computational Intelligence 6.2 (2022): 230-244.](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9687596) - Description (2022)  
 - [Title](link) - Description (Year)  
 
 ## Software & Tools  
