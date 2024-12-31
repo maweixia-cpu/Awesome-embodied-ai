@@ -87,7 +87,7 @@ Embodied AI represents a paradigm shift in artificial intelligence research, emp
 
 ### Online Courses  
 - [Course Name](link) - Institution, Instructor  
-- [Course Name](link) - Institution, Instructor  
+- [CS539 - Embodied AI]([(https://web.engr.oregonstate.edu/~leestef/courses/2019/fall/cs539.html]) - Oregon state university, College of Engineering, Stefan Lee
 
 ### Video Tutorials  
 - [Tutorial Series](link) - Description  
