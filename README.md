@@ -49,27 +49,31 @@ Embodied AI represents a paradigm shift in artificial intelligence research, emp
 
 ### Survey Papers  
 - [Pfeifer, Rolf, and Fumiya Iida. "Embodied artificial intelligence: Trends and challenges." Lecture notes in computer science (2004): 1-26.](https://people.csail.mit.edu/iida/papers/PfeiferIidaEAIDags.pdf) - Description (2004)  
-- [Duan, Jiafei, et al. "A survey of embodied ai: From simulators to research tasks." IEEE Transactions on Emerging Topics in Computational Intelligence 6.2 (2022): 230-244.]([www.baidu.com](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9687596)) - Description (2022)  
-- [Xu, Zhiyuan, et al. "A survey on robotics with foundation models: toward embodied ai." arXiv preprint arXiv:2402.02385 (2024).](https://arxiv.org/pdf/2402.02385) - Description (2024)
-- [Liu, Yang, et al. "Aligning cyber space with physical world: A comprehensive survey on embodied ai." arXiv preprint arXiv:2407.06886 (2024).](https://arxiv.org/pdf/2407.06886) - Description (2024) 
+- [Duan, Jiafei, et al. "A survey of embodied ai: From simulators to research tasks." IEEE Transactions on Emerging Topics in Computational Intelligence 6.2 (2022): 230-244.](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9687596) - Description (2022) 
+- [Liu, Yang, et al. "Aligning cyber space with physical world: A comprehensive survey on embodied ai." arXiv preprint arXiv:2407.06886 (2024).](https://arxiv.org/pdf/2407.06886) - Description (2024)
+- [Moulin-Frier, Clément, et al. "Embodied artificial intelligence through distributed adaptive control: An integrated framework." 2017 Joint IEEE International Conference on Development and Learning and Epigenetic Robotics (ICDL-EpiRob). IEEE, 2017.](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8329825) - Description (2017) 
   
 ### Foundational Papers  
 - [Paolo, Giuseppe, Jonas Gonzalez-Billandon, and Balázs Kégl. "A call for embodied AI." arXiv preprint arXiv:2402.03824 (2024).](https://arxiv.org/pdf/2402.03824) - Description (2024)  
-- [Xu, Zhiyuan, et al. "A survey on robotics with foundation models: toward embodied ai." arXiv preprint arXiv:2402.02385 (2024).](https://arxiv.org/pdf/2402.02385) - Description (2024)  
+- [Majumdar, Arjun, et al. "Openeqa: Embodied question answering in the era of foundation models." Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition. 2024.](Majumdar_OpenEQA_Embodied_Question_Answering_in_the_Era_of_Foundation_Models_CVPR_2024_paper) - Description (2024)
+- [Tao, Stone, et al. "Maniskill3: Gpu parallelized robotics simulation and rendering for generalizable embodied ai." arXiv preprint arXiv:2410.00425 (2024).](https://arxiv.org/pdf/2410.00425) - Description (2024)
+  
 
 ### Recent Advances  
 - [Duan, Jiafei, et al. "A survey of embodied ai: From simulators to research tasks." IEEE Transactions on Emerging Topics in Computational Intelligence 6.2 (2022): 230-244.](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9687596) - Description (2022)  
-- [Title](link) - Description (Year)  
-
+- [Xu, Zhiyuan, et al. "A survey on robotics with foundation models: toward embodied ai." arXiv preprint arXiv:2402.02385 (2024).](https://arxiv.org/pdf/2402.02385) - Description (2024)
+- [Title](link) - Description (Year)
+  
 ## Software & Tools  
 
 ### Simulation Platforms  
-- [Platform Name](link) - Description  
-- [Platform Name](link) - Description  
+- [Savva, Manolis, et al. "Habitat: A platform for embodied ai research." Proceedings of the IEEE/CVF international conference on computer vision. 2019.](https://openaccess.thecvf.com/content_ICCV_2019/papers/Savva_Habitat_A_Platform_for_Embodied_AI_Research_ICCV_2019_paper.pdf) - Description  
+- [Deitke, Matt, et al. "Robothor: An open simulation-to-real embodied ai platform." Proceedings of the IEEE/CVF conference on computer vision and pattern recognition. 2020.](https://openaccess.thecvf.com/content_CVPR_2020/papers/Deitke_RoboTHOR_An_Open_Simulation-to-Real_Embodied_AI_Platform_CVPR_2020_paper.pdf) - Description
+- [Fu, Haoyuan, et al. "RFUniverse: A Multiphysics Simulation Platform for Embodied AI." arXiv preprint arXiv:2202.00199 (2022).](https://arxiv.org/pdf/2202.00199) - Description 
 
 ### Development Frameworks  
-- [Framework Name](link) - Description  
-- [Framework Name](link) - Description  
+- [Weihs, Luca, et al. "Allenact: A framework for embodied ai research." arXiv preprint arXiv:2008.12760 (2020).](https://arxiv.org/pdf/2008.12760) - Description  
+- [Liu, Guocai, et al. "EAI-SIM: An Open-Source Embodied AI Simulation Framework with Large Language Models." 2024 IEEE 18th International Conference on Control & Automation (ICCA). IEEE, 2024.](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10591865) - Description  
 
 ### Libraries  
 - [Library Name](link) - Description  
@@ -78,12 +82,12 @@ Embodied AI represents a paradigm shift in artificial intelligence research, emp
 ## Datasets  
 
 ### Benchmark Datasets  
-- [Dataset Name](link) - Description  
+- [Wang, Zhiqiang, et al. "All robots in one: A new standard and unified dataset for versatile, general-purpose embodied agents." arXiv preprint arXiv:2408.10899 (2024).](https://arxiv.org/pdf/2408.10899) - Description (2024)   
 - [Dataset Name](link) - Description  
 
 ### Research Datasets  
-- [Dataset Name](link) - Description  
-- [Dataset Name](link) - Description  
+- [Ramakrishnan, Santhosh K., et al. "Habitat-matterport 3d dataset (hm3d): 1000 large-scale 3d environments for embodied ai." arXiv preprint arXiv:2109.08238 (2021).](https://arxiv.org/pdf/2109.08238) - Description  
+- [Zhao, Qianfan, et al. "A real 3d embodied dataset for robotic active visual learning." IEEE Robotics and Automation Letters 7.3 (2022): 6646-6652.](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9729641&tag=1) - Description  
 
 ## Courses & Tutorials  
 
