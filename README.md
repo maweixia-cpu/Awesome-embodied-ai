@@ -86,27 +86,23 @@ Embodied AI represents a paradigm shift in artificial intelligence research, emp
 ## Courses & Tutorials  
 
 ### Online Courses  
-- [Course Name](link) - Institution, Instructor  
 - [Building and Working in Environments for Embodied AI](https://ai-workshops.github.io/building-and-working-in-environments-for-embodied-ai-cvpr-2022/) - Simon Fraser University, Angel Xuan Chang
 
 ### Video Tutorials  
-- [Tutorial Series](link) - Description  
 - [CS539 - Embodied AI](https://web.engr.oregonstate.edu/~leestef/courses/2019/fall/cs539.html) - We will read and analyze the strengths and weaknesses of recent research papers on a variety of topics in embodied AI and identify open research questions. 
 
 ### Books & Reading Materials  
-- [Book Title](link) - Author(s), Year  
 - [Multimodal Large Models: The New Paradigm of Artificial General Intelligence](https://hcplab-sysu.github.io/Book-of-MLM/) - Yang Liu, Liang Lin, 2024
-- 
 
 ## Projects  
 
 ### Open Source Projects  
-- [Project Name](link) - Description  
+- [CogAgent: Visual Expert for Pretrained Language Models](https://github.com/THUDM/CogVLM?tab=readme-ov-file) - CogAgent is an open-source visual language model improved based on CogVLM.
 - [All Robots in One: A New Standard and Unified Dataset for Versatile, General-Purpose Embodied Agents](https://imaei.github.io/project_pages/ario/) - we introduce ARIO (All Robots In One), a new data standard that enhances existing datasets by offering a unified data format, comprehensive sensory modalities, and a combination of real-world and simulated data.
 - [Language Guided Generation of 3D Embodied AI Environments](https://github.com/allenai/Holodeck) - Description
 
 ### Research Projects  
-- [Project Name](link) - Institution, Description  
+- [ProAgent: From Robotic Process Automation to Agentic Process Automation](https://github.com/OpenBMB/ProAgent) - Tsinghua University, this paper introduces (APA), a groundbreaking automation paradigm using LLM-based agents for advanced automation by offloading the human labor to agents associated with construction and execution.
 
 ### Demo Applications  
 - [Application Name](link) - Description  
@@ -115,12 +111,13 @@ Embodied AI represents a paradigm shift in artificial intelligence research, emp
 ## Conferences & Workshops  
 
 ### Major Conferences  
-- [Conference Name](link) - Date, Location  
 - [The Fifth Annual Embodied AI Workshop](https://embodied-ai.org/) - Tuesday, June 18 from 8:50am to 5:30pm Pacific, 2024, Seattle Convention Center
+- [RoboTHOR: An Open Simulation-to-Real Embodied AI Platform](https://openaccess.thecvf.com/content_CVPR_2020/papers/Deitke_RoboTHOR_An_Open_Simulation-to-Real_Embodied_AI_Platform_CVPR_2020_paper.pdf) - 2020
+- [Habitat: A Platform for Embodied AI Research](https://openaccess.thecvf.com/content_ICCV_2019/html/Savva_Habitat_A_Platform_for_Embodied_AI_Research_ICCV_2019_paper.html) - 2019
 
 ### Workshops & Symposiums  
-- [Workshop Name](link) - Associated Conference, Date  
-- [Workshop Name](link) - Associated Conference, Date  
+- [Retrospectives on the Embodied AI Workshop](https://arxiv.org/pdf/2210.06849) - Associated Conference, 13 Oct 2022
+- [Workshop on Embodied Intelligence with Large Language Models In Open City Environment](https://openreview.net/pdf?id=zIybgEio8Y) - Associated Conference,  03 Dec 2024
 
 ## Research Groups  
 
