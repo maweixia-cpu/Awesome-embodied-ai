@@ -116,7 +116,7 @@ Embodied AI represents a paradigm shift in artificial intelligence research, emp
 
 ### Major Conferences  
 - [Conference Name](link) - Date, Location  
-- [The Fifth Annual Embodied AI Workshop]([link](https://embodied-ai.org/)) - Tuesday, June 18 from 8:50am to 5:30pm Pacific, 2024, Seattle Convention Center
+- [The Fifth Annual Embodied AI Workshop](https://embodied-ai.org/) - Tuesday, June 18 from 8:50am to 5:30pm Pacific, 2024, Seattle Convention Center
 
 ### Workshops & Symposiums  
 - [Workshop Name](link) - Associated Conference, Date  
